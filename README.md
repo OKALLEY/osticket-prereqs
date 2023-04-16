@@ -31,7 +31,7 @@ osTicket Installation Files
 
 <p>
 Stage 1: 
-<li>Create a Resource Group</li>
+<li>Create a Resource Group in Azure</li>
 <img src="https://imgur.com/Dvy89fo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
