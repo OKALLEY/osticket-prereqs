@@ -37,7 +37,7 @@ Stage 1 (Create Virtual Machine in Azure)
 <ul>
 <li>Install / Enable IIS (Internet Information Services)</li>
 <li>Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPU</li>
-<li>NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)</li>
+NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 
 </p>
 <br />
