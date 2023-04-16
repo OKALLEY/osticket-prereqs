@@ -41,13 +41,18 @@ NOTE: Use the same Region when creating your Virtual machine in the next step.
 <li>Click the Create tab (bottom left corner</li>  
 <img src="https://imgur.com/dKeM0cG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Stage 2: Create Virtual Machine in Azure
+Stage 2: Create a Virtual Machine in Azure
 <ul>
 <li>Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPU</li>
 NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 
 </p>
-<img src="https://imgur.com/anUafQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/F5j2Ukt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Assign the resource group you created</li>
+<li>Name your virtual machine</li>
+<li>Choose the same Region as your Resource Group</li>
+<li>Create a Windows 10 computer under image</li>
+<img src="https://imgur.com/Re9lJtr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
