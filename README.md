@@ -30,12 +30,13 @@ osTicket Installation Files
 <h2>Installation Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Stage 1: 
+<li>Create a Resource Group</li>
+<img src="https://imgur.com/Dvy89fo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Stage 1 (Create Virtual Machine in Azure)
+Stage 2: Create Virtual Machine in Azure
 <ul>
-<li>Install / Enable IIS (Internet Information Services)</li>
 <li>Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPU</li>
 NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 
