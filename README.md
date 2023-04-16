@@ -35,10 +35,10 @@ Stage 1:
 <img src="https://imgur.com/nNY8hrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <li>Give your Resource Group a name</li>
 <li>Choose a Region</li> 
-<li> Click the Review + Create tab</li>  
+<li> Click the "Review + Create" tab</li>  
 NOTE: Use the same Region when creating your Virtual machine in the next step.  
 <img src="https://imgur.com/M8BbdOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>Click the Create tab (bottom left corner)</li>  
+<li>Click the "Create" tab (bottom left corner)</li>  
 <img src="https://imgur.com/dKeM0cG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Stage 2: Create a Virtual Machine in Azure
@@ -66,12 +66,13 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <img src="https://imgur.com/9VdXzrS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<li>Here you can take note of your new Virtual Network, private IP followed by your public IP.</li>
+<li>Click the "Review + Create" tab  and once validation is complete click "Create".</li>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5WUQT69.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
