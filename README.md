@@ -32,7 +32,13 @@ osTicket Installation Files
 <p>
 Stage 1: 
 <li>Create a Resource Group in Azure</li>
-<img src="https://imgur.com/Dvy89fo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nNY8hrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<li>Give your Resource Group a name.</li>
+<li>Choose a Region.</li> 
+NOTE: Use the same Region when creating your Virtual machine in the next step.  
+<img src="https://imgur.com/anUafQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/anUafQS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Stage 2: Create Virtual Machine in Azure
