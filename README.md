@@ -53,7 +53,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Choose the same Region as your Resource Group</li>
 <li>Generate a Windows 10 computer under image</li>
 <img src="https://imgur.com/Re9lJtr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>Choose the size of your virtual machine</li>
+<li>Choose the size of your virtual machine (2vcpus)</li>
 <li>Choose a user name and password</li>
 <img src="https://imgur.com/3Cjhjwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Check the box to confirm Licensing</li>
