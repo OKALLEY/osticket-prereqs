@@ -36,7 +36,7 @@ Stage 1:
 <li>Give your Resource Group a name</li>
 <li>Choose a Region</li> 
 <li> Click the "Review + Create" tab</li>  
-NOTE: Use the same Region when creating your Virtual machine in the next step.  
+NOTE: Use the same Region when creating your Virtual machines
 <img src="https://imgur.com/M8BbdOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Click the "Create" tab (bottom left corner)</li>  
 <img src="https://imgur.com/dKeM0cG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
