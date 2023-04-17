@@ -27,7 +27,7 @@
 <h2>Links:
 osTicket Installation Files
 </h2>https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=share_link 
-<h2>Installation Stages</h2>
+<h2>Virtual Machine Creation</h2>
 
 <p>
 Stage 1: Create a Resource Group in Azure
@@ -74,7 +74,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <img src="https://imgur.com/5tbmena.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Stage 3:
+<h2>Installation</h2> 
 
 </p>
 <br />
