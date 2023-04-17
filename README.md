@@ -52,7 +52,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Name your virtual machine</li>
 <li>Choose the same Region as your Resource Group</li>
 <li>Generate a Windows 10 computer under image</li>
-<img src="https://imgur.com/Re9lJtr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ay9MfRj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Choose the size of your virtual machine (2 vcpus)</li>
 <li>Choose a user name and password</li>
 <img src="https://imgur.com/3Cjhjwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -72,7 +72,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <br />
 
 <p>
-<img src="https://imgur.com/5WUQT69.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5tbmena.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
