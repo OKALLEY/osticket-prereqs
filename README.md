@@ -79,7 +79,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>In Windows click start and type: Remote Desktop Connection. (Mac users install Microsoft Remote Desktop)</li>
 <img src="https://imgur.com/PneTRfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Paste the IP address and click the Connect tab</li>
-<li>Enter your user name and password</li>
+<li>Enter your user name and password you made when you created your virtual machine</li>
 <img src="https://imgur.com/kXcqJgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Click "Yes"</li>
 <img src="https://imgur.com/mBmdCxB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
