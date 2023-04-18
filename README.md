@@ -93,3 +93,5 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 </p>
  <li>CLick Programs and select "Turn Windows Features On or Off"</li>
  <img src="https://imgur.com/JEaj2Sw.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/IEIkrMR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+ 
