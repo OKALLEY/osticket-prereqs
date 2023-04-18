@@ -82,7 +82,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Enter your user name and password you made when you created your virtual machine</li>
 <img src="https://imgur.com/kXcqJgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Click "Yes"</li>
-<img src="https://imgur.com/mBmdCxB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mBmdCxB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <li>Right click the start menu and click "Run"</li>
