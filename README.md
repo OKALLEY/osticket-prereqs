@@ -78,6 +78,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>In Azure under Virtual Machines find and click your virtual machine. Locate its Public IP address. Click to copy it.</li>
 <li>In Windows click start and type: Remote Desktop Connection. (Mac users install Microsoft Remote Desktop)</li>
 <img src="https://imgur.com/PneTRfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <li>Paste the IP address and click the Connect tab</li>
 <li>Enter your user name and password you made when you created your virtual machine</li>
 <img src="https://imgur.com/kXcqJgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
