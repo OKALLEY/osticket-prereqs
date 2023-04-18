@@ -82,11 +82,11 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Enter your user name and password you made when you created your virtual machine</li>
 <img src="https://imgur.com/kXcqJgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Click "Yes"</li>
-<img src="https://imgur.com/mBmdCxB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mBmdCxB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <li>Right click the start menu and click "Run"</li>
 <li>Type "control" for Control Panel and press enter</li>
-<img src="https://imgur.com/lM0F2of.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lM0F2of.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  <li>CLick Programs and selectTurn Windows Features On or Off</li>
  <img src="https://imgur.com/JEaj2Sw.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
