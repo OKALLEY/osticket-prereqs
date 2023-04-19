@@ -106,13 +106,13 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <img src="https://imgur.com/850Le0m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<h2>For this next stage refer back to Links: osTicket Installation Files
-</h2>https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=share_link 
-<h2>
-</p>
+<h2>For this next stage refer back to Links: osTicket Installation Files:</h2>
+https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=share_link</h2> 
+
 <p>
 <li>Install PHP Manager for IIS</li> 
 <img src="https://imgur.com/wksFCHu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/kNCt1xp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+  
 <li>Open the Downloads folder and double click and install it (Next; I Agree; Next; Close).
 
