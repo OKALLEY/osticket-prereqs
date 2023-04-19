@@ -110,3 +110,6 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <h2>
 </p>
 <li>Install PHP Manager for IIS</li> 
+<img src="https://imgur.com/wksFCHu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kNCt1xp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<li>Open the Downloads folder and double click and install it (Next; I Agree; Next; Close).
