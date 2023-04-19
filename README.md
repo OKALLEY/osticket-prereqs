@@ -98,5 +98,5 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Turn on "Internet Information Services (IIS) and then click the box to the left to expand</li>
 <li>Expand "World Wide Web Services"</li>
 <li>Expand "Application Development Features"</li>
-<li>Check the box for "CGI"</li>
+<li>Check the box for "CGI" and press OK</li>
 <img src="https://imgur.com/vEaf4nV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
