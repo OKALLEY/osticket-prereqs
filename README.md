@@ -115,4 +115,7 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <img src="https://imgur.com/kNCt1xp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
   
 <li>Open the Downloads folder and double click and install it (Next; I Agree; Next; Close).
+<p>
+<li>Download and install URL Rewrite Module</li>
+<li>Create the directory C:\PHP</li>  
 
