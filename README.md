@@ -91,7 +91,10 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <li>Type "control" for Control Panel and press enter</li>
 <img src="https://imgur.com/lM0F2of.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
- <li>CLick Programs and select "Turn Windows Features On or Off"</li>
- <img src="https://imgur.com/JEaj2Sw.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
- <img src="https://imgur.com/IEIkrMR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
- 
+<li>CLick Programs and select "Turn Windows Features On or Off"</li>
+<img src="https://imgur.com/JEaj2Sw.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IEIkrMR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<li>Turn on "Internet Information Services (IIS) and then click the box to the left to expand</li>
+<li>Expand "World Wide Web"</li>
+<img src="https://imgur.com/vEaf4nV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
