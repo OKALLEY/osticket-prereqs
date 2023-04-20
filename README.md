@@ -122,12 +122,15 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
   
 <br />
 <p>
-
+<p>
 <li>Create the directory C:\PHP</li>
 <li>To do this go to "This PC" and under Devices and drivers choose Windows (C:)</li>
 <img src="https://imgur.com/mLo3568.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
 <li>Right click and create and name a Folder "PHP"</li>  
 
 <li> Next refer back to osTicket Installation Files and download 
-<a href="https://drive.google.com/file/d/1LmwEE6wNKhfijJ1pyQj_cPVh8rYFzIpa/view?usp=share_link" target="_blank">PHP Manager for IIS folder</a>
-    
+<a href="https://drive.google.com/file/d/1LmwEE6wNKhfijJ1pyQj_cPVh8rYFzIpa/view?usp=share_link" target="_blank">PHP Manager for IIS</a>
+<li>In the downloads folder right click and Extract All...</li>
+<img src="https://imgur.com/z9XMFEI.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<li>Extract to the PHP folder you created: browse; This PC; Windows (C:); then click on thr PHP folder
+<img src="https://imgur.com/1Uu58GZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
