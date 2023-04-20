@@ -128,3 +128,5 @@ Create the directory C:\PHP
 <img src="https://imgur.com/mLo3568.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
 <li>Right click and create the directory C:\PHP</li>  
 
+<li> Next Download the contents of  
+<a href="https://www.example.com" target="_blank">TESTING A CLICK NEW WINDOW</a>
