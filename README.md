@@ -102,7 +102,7 @@ NOTE: When creating the VM, allow it to create a new Virtual Network (Vnet)
 <img src="https://imgur.com/vEaf4nV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <li>To confirm your web server is working, open a browser and type 127.0.0.1</li>
-<li>It should load the default ISS website:</li>
+<li>This should load the default ISS website:</li>
 <img src="https://imgur.com/850Le0m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
