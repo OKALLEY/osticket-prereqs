@@ -123,8 +123,8 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <br />
 <p>
 
-Create the directory C:\PHP
-<li>Go to "This PC" and under Devices and drivers choose Windows (C:)</li>
+<li>Create the directory C:\PHP</li>
+<li>To do this go to "This PC" and under Devices and drivers choose Windows (C:)</li>
 <img src="https://imgur.com/mLo3568.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
 <li>Right click and create and name a Folder PHP</li>  
 
