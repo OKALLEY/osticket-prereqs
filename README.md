@@ -154,4 +154,12 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <li>The box for "Launch the MySQL Instance Configuration Wizard" should be checked. Click Finish</li>
 <img src="https://imgur.com/Eak8nJh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>Click Next then choose "Standard Configuration" and click Next</li> 
-<img src="https://imgur.com/byg5A7Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
+<img src="https://imgur.com/byg5A7Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<li>Check "Install As Windows Service" and click Next</li>
+
+<p>
+<li>Note that in MySQL your User Name is "root</li>
+<li>Assign a password and click Next then click Execute<>
+<img src="https://imgur.com/lElrevv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<li>Then click Execute</li>  
+<img src="https://imgur.com/lwunntS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
