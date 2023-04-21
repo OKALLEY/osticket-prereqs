@@ -172,6 +172,15 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <li> Open IIS as an Admin: click on Start and type "IIS"</li>  
 NOTE: To open as Admin, right click it and choose Run as Administrator  
 <img src="https://imgur.com/ddvXcf4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
- <p>
-
+  
+<li>Click on PHP Manager</li>
 <img src="https://imgur.com/zzPConW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click on "Register new PHP version" (bottom left)</li>
+<img src="https://imgur.com/Q5fPE8i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click the ellipsis (three dots) to browse to your recently created PHP file</li>
+<img src="https://imgur.com/smtl4uA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click on the folder named PHP</li>  
+<img src="https://imgur.com/3bvp41T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Find php-cgi and click on it and click OK</li>  
+<img src="https://imgur.com/f93mNhV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/B1GGwfU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
