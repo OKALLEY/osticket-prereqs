@@ -158,8 +158,8 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <li>Check "Install As Windows Service" and click Next</li>
 
 <p>
-<li>Note that in MySQL your User Name is "root</li>
+<li>Note that in MySQL your User Name is "root"</li>
 <li>Assign a password and click Next then click Execute</li>
 <img src="https://imgur.com/lElrevv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<li>Execute</li>  
+<li>Execute and allow it to finish configuring MySQL Server and click Finish</li>  
 <img src="https://imgur.com/lwunntS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
