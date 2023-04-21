@@ -144,10 +144,14 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 
 <p>
 <li>Download and install MySQL Server</li>   
-<img src="https://imgur.com/atZnobW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/atZnobW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>Next</li>  
-<img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Zg4AkCm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>I accept...; Next</li>  
-<img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Zg4AkCm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>Choose Typical and Install</li>  
-<img src="https://imgur.com/AUyOpZB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AUyOpZB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<li>The box for "Launch the MySQL Instance Configuration Wizard" should be checked. Click Finish</li>
+<img src="https://imgur.com/Eak8nJh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<li>Click Next then choose "Standard Configuration" and click Next</li> 
+<img src="https://imgur.com/Eak8nJh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
