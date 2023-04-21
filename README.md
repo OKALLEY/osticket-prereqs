@@ -149,4 +149,5 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <li>I accept...; Next</li>  
 <img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-  
+<li>Choose Typical and Install</li>  
+<img src="https://imgur.com/AUyOpZB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
