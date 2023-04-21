@@ -140,5 +140,13 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <li> Download and Install VC_redist.x86.exe (C++ Redistributable)</li>
 <img src="https://imgur.com/EgQzNPu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <li>Go back to Downloads and click on it to install: I agree; Install; Close</li>    
-<img src="https://imgur.com/qILaJpz.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-    
+<img src="https://imgur.com/W8OjLpp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+<p>
+<li>Download and install MySQL Server</li>   
+<img src="https://imgur.com/atZnobW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<li>Next</li>  
+<img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<li>I accept...; Next</li>  
+<img src="https://imgur.com/Zg4AkCm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+  
