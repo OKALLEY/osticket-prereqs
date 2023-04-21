@@ -167,5 +167,8 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <img src="https://imgur.com/5gx7izp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  
   
 <p>
-<h2>Configuration</h2>   
-<li>Open IIS as an Admin</li>  
+<h2>Configuration in IIS</h2>   
+
+<li> Open IIS as an Admin: click on Start and type "IIS"</li>  
+NOTE: To open as Admin, right click it choose Run as Administrator  
+<img src="https://imgur.com/ddvXcf4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
