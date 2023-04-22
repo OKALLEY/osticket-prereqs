@@ -190,11 +190,12 @@ NOTE: To open as Admin, right click it and choose Run as Administrator
   
 <h2>Install osTicket</h2>
 <li>Download osTicket from the Installation Files Folder</li>
+https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=share_link
 <li>Extract and copy “upload” folder to c:\inetpub\wwwroot</li>
 To do this go to the Downloads folder and click on the zipped osTicket folder.
 Click Start and type "This PC" Click it and find Windows (C:) 
-THen go to "inetpub" then "wwwroot"
+Then go to "inetpub" then "wwwroot"
 <li>Drag the upload folder into the wwwroot folder</li> 
-<img src=https://imgur.com/7hpP0r8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>                                   
+<img src=https://imgur.com/7hpP0r8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>                                   
 <li>Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</li>
                                                                                               
