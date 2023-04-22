@@ -205,4 +205,7 @@ If it's not named correctly or has a space, you'll get a "404 page not found"
    
 <img src="https://imgur.com/pxuwsDq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
 
-                                                                                              
+ <p>
+<li>Reload IIS</li>  
+<li>As before click on the server and then click "Restart". Alternatively you can click "Stop" then "Start"</li>  
+<img src=https://imgur.com/yw5brMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
