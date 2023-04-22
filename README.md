@@ -223,7 +223,7 @@ If it's not named correctly or has a space, you will get a "404 page not found"
 <img src=https://imgur.com/BiOXJcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>At the bottom select "Enable or disable an extension"</li>
 <img src=https://imgur.com/WDvlHi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <li>Enable the following by right clicking on them and choosing "Enable" (or single click and find "Enable" in the top right corner)</li>
+  <li>Enable the following by right clicking on them and choosing "Enable"</li>
 
 <p>
                                                                                                              
