@@ -200,7 +200,7 @@ Then go to "inetpub" then "wwwroot"
 <li>Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</li>
 NOTE: Make sure it's named exactly "osTicket" with no spaces.
  <p>
-If it's not named correctly or has a space, you'll get a "404 page not found"
+If it's not named correctly or has a space, you will get a "404 page not found"
  <p>
    
 <img src="https://imgur.com/pxuwsDq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
@@ -210,4 +210,9 @@ If it's not named correctly or has a space, you'll get a "404 page not found"
 <li>As before click on the server and then click "Restart". Alternatively you can click "Stop" then "Start"</li>  
 <img src=https://imgur.com/yw5brMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-                                                                                              
+<p>                                                                                              
+<li>While in IIS now is a good time to check that your installation has been performed correctly</li>
+<li>Expand the "Sites" folder then expand the "Default Web Site" then click on the "osTicket folder"</li>
+<li>On the right click on Browse *:80 (http)</li>
+<img src=https://imgur.com/Y1xOpyd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src=https://imgur.com/LlJ0nGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
