@@ -188,3 +188,13 @@ NOTE: To open as Admin, right click it and choose Run as Administrator
 <li>Click on the server and then click "Restart". Alternatively you can click "Stop" then "Start"</li>  
 <img src=https://imgur.com/yw5brMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
+<h2>Install osTicket</h2>
+<li>Download osTicket from the Installation Files Folder</li>
+<li>Extract and copy “upload” folder to c:\inetpub\wwwroot</li>
+To do this go to the Downloads folder and click on the zipped osTicket folder.
+Click Start and type "This PC" Click it and find Windows (C:) 
+THen go to "inetpub" then "wwwroot"
+<li>Drag the upload folder into the wwwroot folder</li> 
+<img src=https://imgur.com/7hpP0r8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>                                   
+<li>Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</li>
+                                                                                              
