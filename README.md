@@ -216,3 +216,10 @@ If it's not named correctly or has a space, you will get a "404 page not found"
 <li>On the right click on Browse *:80 (http)</li>
 <img src=https://imgur.com/Y1xOpyd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <img src=https://imgur.com/LlJ0nGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Note that some extensions are not enabled. The next step will modify some recommended features.</li>
+
+<p>
+<li>Go back to IIS and click osTicket then double click PHP Manager</li> 
+<img src=https://imgur.com/BiOXJcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>At the bottom select "Enable or disable an extension"</li>
+<img src=https://imgur.com/WDvlHi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
