@@ -200,6 +200,8 @@ Then go to "inetpub" then "wwwroot"
 <li>Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</li>  
 NOTE: Make sure it's named exactly "osTicket" with no spaces. 
 If it's not named correctly or has a space, you'll get a "404 page not found"
+ <p>
+   
 <img src="https://imgur.com/pxuwsDq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  
 
                                                                                               
