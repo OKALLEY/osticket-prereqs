@@ -233,5 +233,5 @@ Enable: php_intl.dll
                                                                                                              
 Enable: php_opcache.dll
                                                                                                              
-<li>Refresh the osTicket site in your browse, observe the changes</li>
-<img src=https://imgur.com/2p6hbXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Refresh the osTicket site in your browser, observe the changes</li>
+<img src=https://imgur.com/2p6hbXy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
