@@ -222,4 +222,16 @@ If it's not named correctly or has a space, you will get a "404 page not found"
 <li>Go back to IIS and click osTicket then double click PHP Manager</li> 
 <img src=https://imgur.com/BiOXJcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>At the bottom select "Enable or disable an extension"</li>
-<img src=https://imgur.com/WDvlHi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src=https://imgur.com/WDvlHi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <li>Enable the following by right clicking on them and choosing "Enable" (or single click and find "Enable" in the top right corner)</li>
+
+<p>
+                                                                                                             
+Enable: php_imap.dll
+                                                                                                             
+Enable: php_intl.dll
+                                                                                                             
+Enable: php_opcache.dll
+                                                                                                             
+<li>Refresh the osTicket site in your browse, observe the changes</li>
+<img src=https://imgur.com/2p6hbXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
