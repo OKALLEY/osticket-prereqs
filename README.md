@@ -184,6 +184,7 @@ NOTE: To open as Admin, right click it and choose Run as Administrator
 <li>Find php-cgi and click on it and click OK</li>  
 <img src="https://imgur.com/f93mNhV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/B1GGwfU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>A good rule of thumb is, anytime you make changes to IIS restart it</li> 
-<li>Click on the server and then click "Restart". Alternatively you can click Stop then Start</li>  
-<img src="https://imgur.com/Ow9K5Je.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>A good rule of thumb: Anytime you make changes to IIS restart it</li> 
+<li>Click on the server and then click "Restart". Alternatively you can click "Stop" then "Start"</li>  
+<img src=https://imgur.com/yw5brMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
