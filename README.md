@@ -251,7 +251,10 @@ Enable: php_opcache.dll
 <img src=https://imgur.com/DQjqF9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>In the box named "Enter the object name to select" type everyone and click on Check Names and then OK</li>
 <img src=https://imgur.com/QgV8DXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<li>For now tick the box to give everyone "Full control" and click OK</li>
+<li>For now tick the box to give everyone "Full control" and click "OK"</li>
 <img src=https://imgur.com/lKoSG4b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Click "Apply" and then "OK"</li>                                                                                              
-<img src=https://imgur.com/YSpSFaX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/wYjSOem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click "OK"</li>
+<img src=https://imgur.com/PEE1sWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<h2>Continue Setting up osTicket in the browser</h2>
