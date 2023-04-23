@@ -273,4 +273,4 @@ Enable: php_opcache.dll
 <il>Tick the radio button for "I accept" then click "Next" until you reach "Install" </li> 
 <img src=https://imgur.com/JDoBNIM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <li>Once installation is complete click "Finish"</li>
-<img src=https://imgur.com/u3Kwtxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
+<img src=https://imgur.com/u3Kwtxr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>   
