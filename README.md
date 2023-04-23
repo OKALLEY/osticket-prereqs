@@ -260,3 +260,5 @@ Enable: php_opcache.dll
 <h2>Continue Setting up osTicket in the browser</h2>
 <li>Go back to the osTicket browser and click "continue"</li>
 <img src=https://imgur.com/h9J39ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Fill out the needed information (below are random illustrations)</li>
+<img src=https://imgur.com/rUUJL3k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
