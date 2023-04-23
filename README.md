@@ -147,7 +147,7 @@ https://drive.google.com/drive/folders/1HhS1aa-H8trQa0IPt1hn0Q7-X_vTCk5n?usp=sha
 <img src="https://imgur.com/atZnobW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>Next</li>  
 <img src="https://imgur.com/Zg4AkCm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<li>I accept...; Next</li>  
+<li>Tick the box for "I accept..." and click "Next"</li>  
 <img src="https://imgur.com/Zg4AkCm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <li>Choose Typical and Install</li>  
 <img src="https://imgur.com/AUyOpZB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -235,3 +235,23 @@ Enable: php_opcache.dll
                                                                                                              
 <li>Refresh the osTicket site in your browser, observe the changes</li>
 <img src=https://imgur.com/2p6hbXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Rename: ost-config.php</h2> 
+<li>Browse to "This PC" then "Windows (C:)" then "inetpub" then "wwwroot"</li>
+<img src=https://imgur.com/M1uKTXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click osTicket and click the folder named "include"</li>
+<li>Inside the "include" folder find "ost-sampleconfig.php" and rename it "ost-config.php" (in other words remove "sample" from the name</li>  
+<img src=https://imgur.com/SRrhUNM.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+<h2>Assign Permissions: ost-config.php</h2>
+<li>Right click ost-config.php and go to "Properties"</li>
+<li>Go to "Security" and the click on Advanced</li>
+<img src=https://imgur.com/IItPWyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click "Disable inheritance" and "Remove all inherited permissions from this object" </li>
+<img src=https://imgur.com/Jj5mpOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Next click "Add" and "Select a principal" </li>
+<img src=https://imgur.com/DQjqF9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>In the box named "Enter the object name to select" type everyone and click on Check Names and then OK</li>
+<img src=https://imgur.com/QgV8DXy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>For now tick the box to give everyone "Full control" and click OK</li>
+<img src=https://imgur.com/lKoSG4b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<li>Click "Apply" and then "OK"</li>                                                                                              
+<img src=https://imgur.com/YSpSFaX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
