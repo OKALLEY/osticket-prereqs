@@ -269,8 +269,7 @@ Enable: php_opcache.dll
 
 
 <p>
-<li>In the Downloads folder double click HeidiSQL</li>  
-<img src=https://imgur.com/cTsvZ1O.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+<li>In the Downloads folder double click HeidiSQL</li>
 <il>Tick the radio button for "I accept" then click "Next" until you reach "Install" </li> 
 <img src=https://imgur.com/JDoBNIM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <li>Once installation is complete click "Finish"</li>
