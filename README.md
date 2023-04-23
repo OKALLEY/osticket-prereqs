@@ -33,6 +33,7 @@ Virtual Machine Creation</h2>
 Stage 1: Create a Resource Group in Azure
 <img src="https://imgur.com/nNY8hrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <li>Give your Resource Group a name</li>
+  
 <li>Choose a Region</li> 
 <li> Click the "Review + Create" tab</li>  
 NOTE: Use the same Region when creating your Virtual machines
@@ -262,3 +263,15 @@ Enable: php_opcache.dll
 <img src=https://imgur.com/h9J39ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <li>Fill out the needed information (below are random illustrations)</li>
 <img src=https://imgur.com/rUUJL3k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Install HeidiSQL</h2>
+<li>From the Installation Files, download and install HeidiSQL</li>
+<img src=https://imgur.com/sIEcCHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+
+<p>
+<li>In the Downloads folder double click HeidiSQL</li>  
+<img src=https://imgur.com/cTsvZ1O.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+<il>Tick the radio button for "I accept" then click "Next" until you reach "Install" </li> 
+<img src=https://imgur.com/JDoBNIM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<li>Once installation is complete click "Finish"</li>
+<img src=https://imgur.com/u3Kwtxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
