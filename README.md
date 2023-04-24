@@ -294,3 +294,8 @@ Enable: php_opcache.dll
 <li>Enter the password you created when you set up MySQL and click "Install Now"</li>   
 <img src=https://imgur.com/YK6DH79.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <img src=https://imgur.com/nC83ao8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<h2>Clean up!</h2>
+<li>Delete: C:\inetpub\wwwroot\osTicket\setup</li>
+<li>Go to This PC and Windows (C:) > inetpub > wwwroot > osTicket</li> 
+<li>Right click on the "setup" folder and click Delete</li>
+<img src=https://imgur.com/gRr2cCJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>                             
