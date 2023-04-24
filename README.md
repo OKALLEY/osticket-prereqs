@@ -264,7 +264,9 @@ Enable: php_opcache.dll
 <li>Fill out the needed information (below are random illustrations)</li>
 <img src=https://imgur.com/rUUJL3k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>Install HeidiSQL</h2>
-<li>From the Installation Files, download and install HeidiSQL</li>
+<li>From the Installation Files, download and install <a href="https://docs.google.com/document/d/1oUNbBfMjZzbKvxaj8HEkYr9LC97T4IZT/edit?usp=share_link&ouid=111802367886707317994&rtpof=true&sd=true">HeidiSQL</a></li>
+
+<p>
 <img src=https://imgur.com/sIEcCHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 
@@ -274,3 +276,13 @@ Enable: php_opcache.dll
 <img src=https://imgur.com/JDoBNIM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 <li>Once installation is complete click "Finish"</li>
 <img src=https://imgur.com/u3Kwtxr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>   
+<h2>Open Heidi SQL</h2>
+<li>Click "New"</li>
+<li>Your User name is "root". Enter the password you created when you set up MySQL</li>
+<li>Click "Open"</li>
+<img src=https://imgur.com/WaUNHBs.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<h2>Create a database in HeidiSQL called “osTicket”</h2>
+<li>Right click "Unnamed" and under "Create new" click "Database"</li>                                                                                            
+<img src=https://imgur.com/4H1e42w.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<li>For the Name enter "osTicket" and click OK</li>
+<img src=https://imgur.com/QCHc9kG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
