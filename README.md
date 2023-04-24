@@ -286,3 +286,11 @@ Enable: php_opcache.dll
 <img src=https://imgur.com/4H1e42w.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <li>For the Name enter "osTicket" and click OK</li>
 <img src=https://imgur.com/QCHc9kG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>
+                                                                                              
+<li>Back in your browser for osTiket enter the name for MySQL Database as "osTicket"</li>
+<li>MySQL User name is root</li>                                                                                    
+<li>Enter the password you created when you set up MySQL and click "Install Now"</li>   
+<img src=https://imgur.com/YK6DH79.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<img src=https://imgur.com/nC83ao8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
