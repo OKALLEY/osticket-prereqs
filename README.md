@@ -298,4 +298,14 @@ Enable: php_opcache.dll
 <li>Delete: C:\inetpub\wwwroot\osTicket\setup</li>
 <li>Go to This PC and Windows (C:) > inetpub > wwwroot > osTicket</li> 
 <li>Right click on the "setup" folder and click Delete</li>
-<img src=https://imgur.com/gRr2cCJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>                             
+<img src=https://imgur.com/gRr2cCJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+<li>Next double click the "include" folder (bringing you to Windows (C:) > inetpub > wwwroot > osTicket > include)</li>
+<li>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+<li>Scroll until you find "ost-config.php" and right click on it and choose "Properties"
+<li>Select "Security" and then Advanced</li>
+<img src=https://imgur.com/pNx58vm.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<li>Select "Everyone" and click "Edit"</li> 
+<img src=https://imgur.com/BP7X5h4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<li>Uncheck Full control, Modify and Write and click "OK"</li>
+<img src=https://imgur.com/Ja7aKCd.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<li>Click Apply and OK. You have now set the permissions to Read only again.</li>                                                                                              
