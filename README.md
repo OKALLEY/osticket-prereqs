@@ -33,7 +33,6 @@ Virtual Machine Creation</h2>
 Stage 1: Create a Resource Group in Azure
 <img src="https://imgur.com/nNY8hrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <li>Give your Resource Group a name</li>
-  
 <li>Choose a Region</li> 
 <li> Click the "Review + Create" tab</li>  
 NOTE: Use the same Region when creating your Virtual machines
@@ -308,4 +307,7 @@ Enable: php_opcache.dll
 <img src=https://imgur.com/BP7X5h4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 <li>Uncheck Full control, Modify and Write and click "OK"</li>
 <img src=https://imgur.com/Ja7aKCd.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<li>Click Apply and OK. You have now set the permissions to Read only again.</li>                                                                                              
+<li>Click Apply and OK. You have now set the permissions to Read only again.</li>
+<h2>Useful Links</h2>                                                                                              
+<li>Browse to your help desk login page: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</li>
+<li>End Users osTicket URL: <a href="http://localhost/osTicket/">http://localhost/osTicket/ </li>                                                  
