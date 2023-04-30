@@ -311,3 +311,7 @@ Enable: php_opcache.dll
 <h2>Useful Links</h2>                                                                                              
 <li>Browse to your help desk login page: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</li>
 <li>End Users osTicket URL: <a href="http://localhost/osTicket/">http://localhost/osTicket/ </li>                                                  
+<p>
+<p>
+<h1><p align="center"> For further questions and help go to the <a href="https://forum.osticket.com/">osTicket Forum</a></h1>
+<img src="https://imgur.com/HERPGUd.png" alt="osTicket logo"/></h2>
